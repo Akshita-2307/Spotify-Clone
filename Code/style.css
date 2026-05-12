@@ -1,4 +1,19 @@
 body{
-    background-color: black;
-    color: white;
+    /* background-color: black;
+    color: white; */
+}
+.left{
+    width: 25vw;
+}
+.flex{
+    display: flex;;
+}
+.justify-center{
+    justify-content: center;
+}
+.items-center{
+    align-items: center;
+}
+.right{
+    width: 75vw;
 }
