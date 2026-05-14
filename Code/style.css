@@ -5,15 +5,6 @@ body{
 .left{
     width: 25vw;
 }
-.flex{
-    display: flex;;
-}
-.justify-center{
-    justify-content: center;
-}
-.items-center{
-    align-items: center;
-}
 .right{
     width: 75vw;
 }
